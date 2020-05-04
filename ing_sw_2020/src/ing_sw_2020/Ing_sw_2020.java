@@ -16,6 +16,7 @@ public class Ing_sw_2020 {
      */
     public static void main(String[] args) {
         System.err.println("Hola mundo 04/05/2020 10:41 am");
+        System.out.println("Hola mundo 04/05/2020 11:06 am");
     }
     
 }
